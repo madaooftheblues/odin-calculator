@@ -90,4 +90,6 @@ button:hover {
 #clear,
 #back {
   height: 40px;
+  background-color: palevioletred;
+  border: none;
 }
